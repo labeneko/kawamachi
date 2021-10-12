@@ -1,4 +1,3 @@
-kawamachi/images/cam_KEIO-line_upper/2021/10/12/202110120442.jpg
 kawamachi/images/cam_KEIO-line_upper/2021/10/12/202110120451.jpg
 kawamachi/images/cam_KEIO-line_upper/2021/10/12/202110120502.jpg
 kawamachi/images/cam_KEIO-line_upper/2021/10/12/202110120512.jpg
@@ -142,3 +141,4 @@ kawamachi/images/cam_KEIO-line_upper/2021/10/13/202110130413.jpg
 kawamachi/images/cam_KEIO-line_upper/2021/10/13/202110130422.jpg
 kawamachi/images/cam_KEIO-line_upper/2021/10/13/202110130432.jpg
 kawamachi/images/cam_KEIO-line_upper/2021/10/13/202110130442.jpg
+kawamachi/images/cam_KEIO-line_upper/2021/10/13/202110130452.jpg
