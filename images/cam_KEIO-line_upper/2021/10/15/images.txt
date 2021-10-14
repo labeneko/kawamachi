@@ -42,3 +42,4 @@ kawamachi/images/cam_KEIO-line_upper/2021/10/15/202110150642.jpg
 kawamachi/images/cam_KEIO-line_upper/2021/10/15/202110150652.jpg
 kawamachi/images/cam_KEIO-line_upper/2021/10/15/202110150702.jpg
 kawamachi/images/cam_KEIO-line_upper/2021/10/15/202110150712.jpg
+kawamachi/images/cam_KEIO-line_upper/2021/10/15/202110150722.jpg
