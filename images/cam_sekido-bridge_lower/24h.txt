@@ -1,4 +1,3 @@
-kawamachi/images/cam_sekido-bridge_lower/2021/10/13/202110131042.jpg
 kawamachi/images/cam_sekido-bridge_lower/2021/10/13/202110131052.jpg
 kawamachi/images/cam_sekido-bridge_lower/2021/10/13/202110131102.jpg
 kawamachi/images/cam_sekido-bridge_lower/2021/10/13/202110131112.jpg
@@ -142,3 +141,4 @@ kawamachi/images/cam_sekido-bridge_lower/2021/10/14/202110141012.jpg
 kawamachi/images/cam_sekido-bridge_lower/2021/10/14/202110141023.jpg
 kawamachi/images/cam_sekido-bridge_lower/2021/10/14/202110141032.jpg
 kawamachi/images/cam_sekido-bridge_lower/2021/10/14/202110141042.jpg
+kawamachi/images/cam_sekido-bridge_lower/2021/10/14/202110141052.jpg
