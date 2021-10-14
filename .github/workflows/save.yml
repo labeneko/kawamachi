@@ -53,6 +53,7 @@ jobs:
           curl -o $savepath2 $url2
           sed -i -e "1d" "images/cam_sekido-bridge_lower/24h.txt"
           echo "kawamachi/$savepath2" >> "images/cam_sekido-bridge_lower/24h.txt"
+          echo "kawamachi/$savepath2" >> "images/cam_sekido-bridge_lower/${year}/${month}/${date}/images.txt"
           git config --local user.email "info@laboneko.jp"
           git config --local user.name "labeneko"
           git add .
