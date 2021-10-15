@@ -90,3 +90,4 @@ kawamachi/images/cam_KEIO-line_upper/2021/10/15/202110151442.jpg
 kawamachi/images/cam_KEIO-line_upper/2021/10/15/202110151452.jpg
 kawamachi/images/cam_KEIO-line_upper/2021/10/15/202110151502.jpg
 kawamachi/images/cam_KEIO-line_upper/2021/10/15/202110151512.jpg
+kawamachi/images/cam_KEIO-line_upper/2021/10/15/202110151522.jpg
